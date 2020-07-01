@@ -1,2 +1,2 @@
 # blob-upload
-Upload files to Oracle DB as BLOB column
+Upload files to Oracle DB to BLOB column
